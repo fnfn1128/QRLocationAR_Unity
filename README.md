@@ -34,5 +34,5 @@ Android 환경에서 복잡한 3D 시각화와 ARCore 연동을 효율적으로 
 이를 통해 방향 안내를 보다 직관적으로 표현하고,  
 AR 기능을 독립적인 모듈로 구성해 구조적 안정성과 확장성을 확보했습니다.
 
-🔗 Main Application : QRLocationAR_Android
+🔗 Main Application : [QRLocationAR_Android](https://github.com/fnfn1128/QRLocationAR_Android)
 
